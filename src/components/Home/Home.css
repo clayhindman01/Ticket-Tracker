@@ -1,0 +1,26 @@
+.body-home {
+    padding: 0;
+    height: 96vh;
+    width: 140vh;
+    position: relative;
+    left: 31.5vh;
+    font-size: 20px;
+}
+
+.home-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.home-item {
+    padding: 2% 2% 0 2%;
+}
+
+.body-line {
+    border-bottom: 1px solid rgb(182, 182, 182);
+}
+
+.home-item:hover {
+    font-weight: 500;
+}

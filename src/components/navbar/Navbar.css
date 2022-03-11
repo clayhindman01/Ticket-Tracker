@@ -1,0 +1,36 @@
+.body {
+    width: 30vh;
+    height: 96vh;
+    background-color: #174561;
+    margin-left: 1.5vh;
+    margin-top: 2vh;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: white;
+    position: absolute;
+}
+
+.navbar-list {
+    list-style-type: none;
+    padding: 0 5%;
+}
+
+.ticket-tracker-title {
+    padding: 5% 5% 0 5%;
+}
+
+.navbar-item {
+    padding: 25% 0;
+    text-decoration: none;
+}
+
+.icon {
+    width: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
